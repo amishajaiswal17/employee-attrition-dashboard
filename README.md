@@ -42,6 +42,7 @@ Microsoft Excel, Pivot Tables, Pivot Charts, Excel Slicers, Conditional Formatti
 
 ✅ Recommendations
 
-Introduce structured career progression paths with transparent timelines(Age 25–34, Lab Technicians, Sales Execs)
-Implement an overtime monitoring policy
-Develop engagement programs tailored to single employees (flexibility, remote options)
+1. Introduce structured career progression paths with transparent timelines(Age 25–34, Lab Technicians, Sales Execs)
+2. Implement an overtime monitoring policy
+3. Develop engagement programs tailored to single employees (flexibility, remote options)
+
